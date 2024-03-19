@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989310805609",
+    "project_id": "irfanach-36e20",
+    "storage_bucket": "irfanach-36e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989310805609:android:869abe69cc45f61d3224f8",
+        "android_client_info": {
+          "package_name": "com.example.irfanach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJ6e7yWTBiiRwHxgUXNEjpnMzYKsi4UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
